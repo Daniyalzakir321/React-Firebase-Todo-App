@@ -1,0 +1,122 @@
+*{
+  margin: 0px;
+  text-align: center;
+}
+
+/* Header */
+.Todo__Header{
+    font-family: Ubuntu;
+    color: white;
+    text-shadow:1px 1px 3px black;
+    font-size: 35px;
+    background: linear-gradient(to right,#4719aa, #4615b2,#4719aa); 
+    height: 50px;
+    border: 1px solid black;
+    margin-bottom: 25px;
+    padding: 7px;
+    box-shadow:0px 2px 5px gray;
+  }
+
+
+  
+/* Add Todos */
+.Add__Todo{
+  margin: 20px 150px 22px 150px;
+  padding: 15px 0px 15px 0px;
+}
+.Add__Todo>.Text__Field{
+  width: 500px;
+}
+.Add__Todo>Button{
+  width: 20%;
+  margin: 5px;
+}
+
+
+
+
+/* Paper */
+.Todos_Rendering{
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  margin: 20px 150px 20px 150px;
+  padding: 10px;
+}
+.Todos_Rendering>p{
+  font-family: ubuntu;
+  font-weight: bold;
+  text-transform: capitalize;
+}
+.Todos_Rendering>div>Button{
+  width: 150px;
+  margin: 5px;
+  align-items: right; 
+} 
+
+
+
+
+/*  Date Time */
+.Todos_Rendering>span{
+font-size: 10px;
+position: absolute;
+left: 190px;
+padding-top: 50px;
+font-family: Ubuntu;
+font-weight: 500;
+text-shadow:0.1px 0.1px 0.8px black;
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
